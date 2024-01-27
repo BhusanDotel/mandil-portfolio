@@ -1,0 +1,24 @@
+.landingcontainer-main-root {
+  padding-top: 75vh;
+  height: 100vh;
+  width: 100%;
+  background-color: black;
+  background-image: url("/images/mandil.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+.landing-container-title {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  font-size: 65px;
+  font-weight: 800;
+  font-family: "Cinzel", serif;
+}
+.scroll-down-indicator {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  height: auto;
+}
